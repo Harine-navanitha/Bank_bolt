@@ -1,0 +1,8 @@
+{
+  "name": "Volt Bank Quantum Suite",
+  "description": "High-velocity digital banking platform with real-time spending analytics, virtual cards, instant transfers, and quantum-encrypted vault management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
